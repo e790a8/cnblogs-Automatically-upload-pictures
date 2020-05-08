@@ -5,7 +5,7 @@
 # 整体思路
 
 ## 寻找上传图片的接口
-![image-20200508101830839](https://github.com/lisztomania-Zero/cnblogs-Automatically-upload-pictures/blob/master/%E5%9B%BE%E7%89%87/image-20200508115700805.png)
+![image-20200508101830839](https://github.com/lisztomania-Zero/cnblogs-Automatically-upload-pictures/blob/master/%E5%9B%BE%E7%89%87/image-20200508101830839.png)
 
 ![image-20200508101855127](https://github.com/lisztomania-Zero/cnblogs-Automatically-upload-pictures/blob/master/%E5%9B%BE%E7%89%87/image-20200508101855127.png)
 
