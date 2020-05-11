@@ -115,7 +115,7 @@ def main():
     Cookie = Return_cookie()
     Upload_url = "http://upload.cnblogs.com/imageuploader/processupload?host=www.cnblogs.com&qqfile=name.png"
     while True:
-        Path = input("file_path(exit:Y/N):")
+        Path = input("file_path(exit:Y):")
         if Path == "Y" or Path == "y":
             exit(0)
         elif not Check_path(path=Path):
