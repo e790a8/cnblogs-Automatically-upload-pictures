@@ -60,5 +60,3 @@ file_path:输入文件绝对路径
 ![image-20200508105948839](https://github.com/lisztomania-Zero/cnblogs-Automatically-upload-pictures/blob/master/%E5%9B%BE%E7%89%87/image-20200508105948839.png)
 
 ![image-20200508110243175](https://github.com/lisztomania-Zero/cnblogs-Automatically-upload-pictures/blob/master/%E5%9B%BE%E7%89%87/image-20200508110243175.png)
-
-![image-20200508110626916](https://github.com/lisztomania-Zero/cnblogs-Automatically-upload-pictures/blob/master/%E5%9B%BE%E7%89%87/image-20200508110626916.png)
