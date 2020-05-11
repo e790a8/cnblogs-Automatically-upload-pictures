@@ -23,6 +23,24 @@
 
 经过优化，使用了多线程，速度一下上去了。
 
+##  Cookie获取
+
+### Chrome
+
+访问（显示要登陆的时候，登陆一下）：https://upload.cnblogs.com/imageuploader/upload?host=www.cnblogs.com&editor=4#md-editor
+
+然后按F12
+
+![image-20200512001414455](D:\Code\cnblogs-Automatically-upload-pictures\图片\image-20200512001414455.png)
+
+再按Ctrl+R，点击一下图示所圈
+
+![image-20200512001502330](D:\Code\cnblogs-Automatically-upload-pictures\图片\image-20200512001502330.png)
+
+鼠标滑轮向下滑，找到图示所圈，复制相应的Cookie即可
+
+![image-20200512001657851](D:\Code\cnblogs-Automatically-upload-pictures\图片\image-20200512001657851.png)
+
 ## 使用方法
 
 python cnblogs_upload.py
